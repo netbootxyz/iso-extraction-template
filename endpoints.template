@@ -5,3 +5,6 @@ endpoints:
     - filesystem.squashfs
     - initrd
     - vmlinuz
+    os: "ubuntu"
+    version: "18.04"
+    flavor: "core"
